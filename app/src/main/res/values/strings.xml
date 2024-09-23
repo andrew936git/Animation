@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Animation</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="startButtonText">Начать</string>
+    <string name="regTextViewText">Регистрация</string>
+    <string name="loginETHint">Введите логин</string>
+    <string name="passwordETHint">Введите пароль</string>
+    <string name="saveBTText">Зарегистрироваться</string>
+</resources>
